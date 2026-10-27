@@ -1,0 +1,22 @@
+﻿# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Chaves e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Configurações locais
+.vscode/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
